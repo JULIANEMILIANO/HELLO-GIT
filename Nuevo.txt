@@ -1,0 +1,23 @@
+
+https://survey.stackoverflow.co/2022
+
+https://octoverse.github.com/
+
+git
+
+https://git-scm.com/
+
+    https://git-scm.com/book/es/v2
+
+ls :listado de todos los directorios
+
+cd :moverme en los esritorios
+cd .. :me voy hacia atras de la carpeta
+pwd : me dice en donde estoy
+mkdir ""  :crear carpeta
+code .   :abre visual
+clear :limpiar consola
+git config --global user.name "JULIANEMILIANO"  :esto es global
+git config --global user.email "lcc.emiliano@gmail.com"   
+git init   :para iniciar el control de versiones en la carpeta
+git status     : te muestra los comics
