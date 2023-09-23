@@ -42,3 +42,12 @@ git config --global alias.tree "log --graph --decorate --all --oneline"   : para
 
 ______________________________________________________________________
 git diff     :me dice que desaparecio y que se añadio al que señala git add
+
+
+
+para irnos a una foto guardada:
+git checkout 51f46ee0544ae3bf1ce93d8a80caf0e67c7d26c7
+git checkout HEAD
+para regresar:
+git tree
+git checkout ee1e9f7
