@@ -71,4 +71,4 @@ git log
 añade todo los ficheros que tenemos pendientes, o sea, se ugardan los cambios
 git add .
 git status
-git commit -m "Este es mi ultimo commit"
+git commit -m "Este es mi septimo commit"
