@@ -38,4 +38,5 @@ ______________________________________________________________________
 
 git log --graph   : para ver las ramas de los arboles
 
-git config --global alias.tree "log --graph --decorate --all --oneline"   : para crear alias
+git config --global alias.tree "log --graph --decorate --all --oneline"   : para crear alias o sea variables con cosas
+
