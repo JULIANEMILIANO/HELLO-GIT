@@ -33,3 +33,9 @@ git commit -m "Este es mi primer commit"
 git config --global --add safe.directory C:/Users/EOS26/OneDrive/Documentos/PROYECTO
 git log   :me muestra todos los comics con comentarios (historial)
 git checkout Nuevo.txt            :borra todo hasta el ultimo commit hecho
+
+______________________________________________________________________
+
+git log --graph   : para ver las ramas de los arboles
+
+git config --global alias.tree "log --graph --decorate --all --oneline"   : para crear alias
