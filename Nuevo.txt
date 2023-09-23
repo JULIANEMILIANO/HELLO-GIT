@@ -19,5 +19,17 @@ code .   :abre visual
 clear :limpiar consola
 git config --global user.name "JULIANEMILIANO"  :esto es global
 git config --global user.email "lcc.emiliano@gmail.com"   
+
+______________________________
+
 git init   :para iniciar el control de versiones en la carpeta
+
+______________________________
+
 git status     : te muestra los comics
+git add Nuevo.txt  :ya esta preparado para hacer committed (primera fotografia)
+git commit     :para hacer un commit
+git commit -m "Este es mi primer commit"
+git config --global --add safe.directory C:/Users/EOS26/OneDrive/Documentos/PROYECTO
+git log   :me muestra todos los comics con comentarios (historial)
+git checkout Nuevo.txt            :borra todo hasta el ultimo commit hecho
