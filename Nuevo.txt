@@ -40,3 +40,5 @@ git log --graph   : para ver las ramas de los arboles
 
 git config --global alias.tree "log --graph --decorate --all --oneline"   : para crear alias o sea variables con cosas
 
+______________________________________________________________________
+git diff     :me dice que desaparecio y que se añadio al que señala git add
