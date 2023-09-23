@@ -51,3 +51,24 @@ git checkout HEAD
 para regresar:
 git tree
 git checkout ee1e9f7
+
+
+para eliminar commits despues de :
+git reset --hard 44abb8f
+
+para ver el historial de todo lo que hemos hecho:
+git reflog
+
+git checkout ee1e9f7   :me puedo ir a algo que borre despues de ver el historiañ
+git tree
+git checkout main      :vamos hcia aotrs
+git reset --hard ee1e9f7  (este va hacia atras como hacia adelante)
+
+para poner una etiqueta:
+git tag Clase_1
+git log
+
+añade todo los ficheros que tenemos pendientes, o sea, se ugardan los cambios
+git add .
+git status
+git commit -m "Este es mi primer commit"
