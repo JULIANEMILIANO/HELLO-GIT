@@ -3,6 +3,8 @@ https://survey.stackoverflow.co/2022
 
 https://octoverse.github.com/
 
+https://training.github.com/
+
 git
 
 https://git-scm.com/
@@ -72,3 +74,29 @@ añade todo los ficheros que tenemos pendientes, o sea, se ugardan los cambios
 git add .
 git status
 git commit -m "Este es mi septimo commit"
+
+para crear una rama se hace 
+
+git branch login
+git tree
+para moverme a la rama se hace:
+git switch login
+
+
+los datos que estan en el main se pasan al login (o al revés)
+git merge main 
+
+
+Me hace un commitde manera termporal
+git stash
+git stash list
+recuperar de la rama temporal
+git stash pop
+
+
+eliminar 
+git stash drop
+
+
+se elimina la rama login
+git branch -d login
