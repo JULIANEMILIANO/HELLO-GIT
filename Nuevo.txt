@@ -100,3 +100,8 @@ git stash drop
 
 se elimina la rama login
 git branch -d login
+
+
+para subirlo a github
+
+git push -u origin main
